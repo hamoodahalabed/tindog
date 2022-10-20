@@ -1,0 +1,157 @@
+body {
+  scroll-behavior: smooth;
+  font-family: "Montserrat" !important;
+}
+
+h1 {
+  font-size: 3rem !important;
+  line-height: 1.5 !important;
+  color: #fff;
+  margin-bottom: 40px;
+}
+
+h2 {
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+h3 {
+  font-size: 1.5rem;
+}
+
+.back {
+  background-color: #ff4c68;
+  padding: 3% 15% 7%;
+}
+
+.navbar-brand {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.navbar {
+  padding-bottom: 4.5rem;
+}
+
+.nav-item {
+  padding: 0 18px 0;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: light;
+}
+
+.myDownload {
+  margin-left: 3%;
+}
+
+.title-img {
+  width: 50%;
+  transform: rotate(25deg);
+  margin-left: 5rem;
+  margin-top: 5rem;
+}
+
+#features {
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #fff;
+}
+
+#features p {
+  color: #8f8f8f;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif !important;
+}
+
+.fa-solid {
+  color: #ef8172;
+  margin: 0 0 2rem;
+}
+
+.fa-solid:hover {
+  color: #ff4c68;
+  font-size: 5.06rem;
+}
+
+#testimonials {
+  text-align: center;
+  background-color: #ef8172;
+  color: #fff;
+}
+
+.carousel-item {
+  padding: 7% 15%;
+}
+
+.testimonials-img {
+  width: 10%;
+  border-radius: 100%;
+  margin: 1.5rem;
+}
+
+#press {
+  background-color: #ef8172;
+  padding-bottom: 3%;
+  text-align: center;
+}
+
+#press img {
+  width: 15%;
+  margin: 1.25rem 1.25rem 2.75rem;
+}
+
+.card-title {
+  padding: 5%;
+}
+
+.spe {
+  text-align: center;
+  width: 18rem;
+}
+
+.price h1 {
+  color: #000;
+}
+
+#pricing {
+  padding: 6.25rem;
+  text-align: center;
+}
+
+.cr-sp {
+  padding: 3% 2%;
+}
+
+.pricing-p {
+  color: #8f8f8f;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif !important;
+}
+
+#cta {
+  text-align: center;
+  background-color: #ff4c68;
+  padding: 7% 15%;
+}
+
+.cta-btn {
+  padding: 5%;
+}
+#cta h3 {
+  font-size: 3.5rem;
+  color: #fff;
+  font-family: "Montserrat";
+}
+
+#footer {
+  padding: 7% 15%;
+  text-align: center;
+}
+
+.si {
+  margin: 1.25rem 0.65rem;
+}
