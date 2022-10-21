@@ -153,5 +153,14 @@ h3 {
 }
 
 .si {
-  margin: 1.25rem 0.65rem;
+  margin: 1.5rem 2rem;
+  color: #ff4c68;
+}
+
+.si:hover {
+  color: #000;
+}
+
+#footer p {
+  margin-top: 2rem;
 }
